@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authpave",
+        "uuid": 7816340,
+        "checksum": "wsy2kp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
